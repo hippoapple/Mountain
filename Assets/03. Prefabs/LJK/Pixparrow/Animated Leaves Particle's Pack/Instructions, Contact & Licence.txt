@@ -1,0 +1,45 @@
+
+//////////////////
+Licence
+
+If you bought this package you are free to use it in anything you publish.
+
+Editing for personal use is allowed.
+Redistribution and reselling or editing any of this package content for redistribution is not allowed.
+Everything in this package is made with original pictures and assets and you may not redistribute any of its content.
+//////////////////
+
+
+************************************************************************************************************************************
+Hello There.
+Thanks for purchasing my Animated Leaves Particle's Pack.
+
+Some Note's
+
+YOU CAN REMOVE THE PARTICLE SYSTEM IN THE TREE PREFAB AND REPLACE IT WITH ANY PARICLE SYSTEM YOU WANT!
+
+Update!!!
+URP-Universal Rendering Pipeline is the base Renderer for this asset.
+*Bugs and errors may ocurr depending on the RP your'e using*
+A new Lemon Leaf is added.
+VFX Graph's bugs fixed.
+And a sway shader is added.
+
+The tree controller is removed, a better script will be implemented soon.
+(VFX Graph does not support emitting from mesh yet, Original Particle System Does, if you want to emit particles from
+mesh use the shuriken particle system instead)
+Still in hopes for VFX Graph to support emitting from mesh like Shuriken.(SAD FACE)
+.
+.
+.
+.
+That's it!, feel free to contact me if you find any bugs or anything to improve.
+Soulage.suppbox@hotmail.com
+
+Website : https://pixparrow.wixsite.com/home
+
+Support us ^^
+https://www.patreon.com/Soulage98
+
+
+
